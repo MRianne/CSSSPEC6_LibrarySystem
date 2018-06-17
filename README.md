@@ -1,2 +1,2 @@
-# cssspec6ss
+# cssspec
 Projects in cssspec 6
